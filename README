@@ -1,1 +1,4 @@
 forked from: https://chromium.googlesource.com/chromiumos/platform2/+/60fd2b2152054d5d549bcb3adefa3d2be1b62f91/minijail/
+
+some design docs: http://www.chromium.org/chromium-os/chromiumos-design-docs/system-hardening
+
